@@ -1,0 +1,15 @@
+.header{
+    background: navy;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image: url("../assets/imgs/business-women-signature-document.jpg");
+    background-repeat: no-repeat;
+    height: calc(100vh-0px);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
